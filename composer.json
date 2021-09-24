@@ -1,0 +1,5 @@
+{
+    "require": {
+        "progsmile/request-validator": "^2.0"
+    }
+}
